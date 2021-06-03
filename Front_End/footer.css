@@ -1,0 +1,7 @@
+.footer {
+  display: flex;
+  border-bottom: 5px solid black;
+  /* justify-items: flex-start; */
+  margin-left: 10%;
+  margin-right: 10%;
+}
